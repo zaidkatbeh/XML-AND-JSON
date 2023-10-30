@@ -1,0 +1,17 @@
+[
+        {
+            "name":"zaid",
+            "age":"21",
+            "role":"back end developer"
+        },
+        {
+            "name":"mohammad",
+            "age":"22",
+            "role":"front end developer"
+        },
+        {
+            "name":"moawea",
+            "age":"22",
+            "role":"UI UX designer"
+        }
+]
